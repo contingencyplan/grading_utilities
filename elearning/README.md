@@ -1,7 +1,7 @@
 Introduction
 ============
 
-In the prior version of eLearning used at [The University of Texas at
+The prior version of eLearning used at [The University of Texas at
 Dallas](http://www.utdallas.edu) (prior to Spring 2013) included a (somewhat
 hidden) feature that permitted instructors and TAs to download all of the
 submissions for a particular assignment as a single Zip file. Each student's
