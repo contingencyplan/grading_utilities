@@ -1,12 +1,13 @@
 Introduction
 ============
 
-In the prior version of eLearning used at (prior to Spring 2013) included a
-(somewhat hidden) feature that permitted instructors and TAs to download all
-of the submissions for a particular assignment as a single Zip file. Each
-student's work was placed in a separate directory containing the student's
-name; most importantly (for programming assignments, at least), the original
-filenames were preserved.
+In the prior version of eLearning used at [The University of Texas at
+Dallas](http://www.utdallas.edu) (prior to Spring 2013) included a (somewhat
+hidden) feature that permitted instructors and TAs to download all of the
+submissions for a particular assignment as a single Zip file. Each student's
+work was placed in a separate directory containing the student's name; most
+importantly (for programming assignments, at least), the original filenames
+were preserved.
 
 In the new version of eLearning, the "download all" feature is a bit easier
 to find:
